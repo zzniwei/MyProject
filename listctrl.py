@@ -279,4 +279,6 @@ class ListCtrl(AbstractView, EventDispatcher):
 
     def on_scroll_complete(self, *args):
         self.scrolling = False
-
+    
+    def test():
+        pass
